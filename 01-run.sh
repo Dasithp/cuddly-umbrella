@@ -1,5 +1,5 @@
 #!/bin/bash
-#SUP
+#SUP-she said to make changes to this line ^.^
 #Please maximize the window to be able to read all my comments
 
 #If condition stating that if the number of entered parameters/arguments that are supplied to the script is equal to 0, then
