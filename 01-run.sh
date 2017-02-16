@@ -1,6 +1,7 @@
 #!/bin/bash
 #SUP-she said to make changes to this line 
 #Im in charge
+#You wish! Only Kathleen is in charge ^.^ and my smiley face stays
 #Nothing
 #HI
 
