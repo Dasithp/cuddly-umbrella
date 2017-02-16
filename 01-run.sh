@@ -1,6 +1,12 @@
 #!/bin/bash
+<<<<<<< HEAD
 
 #Nothing
+=======
+#SUP
+#HI
+#Please maximize the window to be able to read all my comments
+>>>>>>> f4825df4051d9a89f21ff2a80387a133251a3789
 
 #If condition stating that if the number of entered parameters/arguments that are supplied to the script is equal to 0, then
 if [ $# -eq 0 ]; then
