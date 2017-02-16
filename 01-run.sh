@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Please maximize the window to be able to read all my comments
+#Nothing
 
 #If condition stating that if the number of entered parameters/arguments that are supplied to the script is equal to 0, then
 if [ $# -eq 0 ]; then
@@ -24,3 +24,4 @@ grep -v '^#' |
 cut -f3 |
 grep gene |
 wc -l
+#trial
