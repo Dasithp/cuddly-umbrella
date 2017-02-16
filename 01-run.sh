@@ -1,6 +1,16 @@
 #!/bin/bash
+<<<<<<< HEAD
 #SUP-she said to make changes to this line ^.^
+=======
+<<<<<<< HEAD
+
+#Nothing
+=======
+#SUP
+#HI
+>>>>>>> bc89a851e82f8976ad73a3640b136d2820674678
 #Please maximize the window to be able to read all my comments
+>>>>>>> f4825df4051d9a89f21ff2a80387a133251a3789
 
 #If condition stating that if the number of entered parameters/arguments that are supplied to the script is equal to 0, then
 if [ $# -eq 0 ]; then
@@ -24,3 +34,4 @@ grep -v '^#' |
 cut -f3 |
 grep gene |
 wc -l
+#trial
