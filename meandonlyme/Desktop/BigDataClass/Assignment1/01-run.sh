@@ -40,3 +40,4 @@ cat $filename |
 # wc is a word, line, character or byte count but here it will be a line count, with the -l option present, its the line count in the file 
 # | is the pipe character, it takes the output of the command on first line, in this case, starting with cat $filename and uses it as the input of the command on the next line
 
+#Im hungry
